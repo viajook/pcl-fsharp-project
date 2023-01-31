@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "El1NyP7F8OqpK4PHWD1hQKKkBXtywHGCUmw5Dq0h3uegBCSOSxm/aKjvwgbkRw+2Qa5p/smUHAi8oHN3xAmYmg==",
+  "success": true,
+  "projectFilePath": "C:\\_JOOK\\workspace\\vscode\\s23\\pcl\\it-pcl-s23\\fsharp\\pcl-fsharp\\PclFsharpProject\\PclFsharpProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jook\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
